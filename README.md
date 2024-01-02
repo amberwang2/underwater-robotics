@@ -21,7 +21,7 @@ On the electronics side, the controller is made up of two joysticks, an Arduino 
 </p>
 <p align="center">
   <img src="https://github.com/massiveg00se/underwater-robotics/blob/main/Media/controller.jpg" width="40%">
-&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp;
   <img src="https://github.com/massiveg00se/underwater-robotics/blob/main/Media/controller2.jpg" width="40%">
 </p>
 <p align="center">
