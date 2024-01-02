@@ -1,4 +1,4 @@
-# Underwater Robotics
+# underwater-robotics
 An underwater robot design for E96 Underwater Robotics.
 
 <p align="center">
