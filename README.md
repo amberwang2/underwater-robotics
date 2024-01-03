@@ -1,5 +1,5 @@
 # underwater-robotics
-An underwater robot design for E96 Underwater Robotics.
+An underwater robot design for E96A Underwater Robotics.
 
 <p align="center">
   <img src="https://github.com/massiveg00se/underwater-robotics/blob/main/Media/bot2.jpg" width="60%">
