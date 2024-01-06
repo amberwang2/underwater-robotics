@@ -10,7 +10,7 @@ The chassis consists of 2 water jetted hexagonal aluminum plates connected by 6 
 
 On the electronics side, the controller is made up of two joysticks, an Arduino Mega, and two H-bridges to control power supply to the motors. Data from the joysticks is input to the Arduino, which converts it to the appropriate motor power and direction for each motor wired to the H-bridges. A joystick button is also wired to activate the servo controlling the torpedo launcher system.
 
-## Design flaws and notes
+### Flaws and additional notes
 - While the aluminum plates provided stability against rolling, they also weighed it down. We were not able to make our bot neutrally buoyant and struggled to bring it back up with the motors alone. Using acrylic plates instead and adding more motors might solve this issue.
 - Motor placement did not allow for going diagonally up or down since the same motors were used for left-right and up-down motion
 - Moving left and right caused the bot to tilt and may have been caused by balance issues between motors or manufacturing flaws
